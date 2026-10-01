@@ -1,0 +1,7 @@
+{
+  "name": "Preparador de Examen de Español (Armenio)",
+  "description": "Herramienta interactiva de preparación y examen real de español para hablantes de armenio: Funciones del lenguaje, Modalidades oracionales, Elementos de la comunicación y traducción.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
